@@ -1,0 +1,14 @@
+D:\C# Projects\classesAndObjectChallenge\bin\Debug\net7.0\classesAndObjectChallenge.exe
+D:\C# Projects\classesAndObjectChallenge\bin\Debug\net7.0\classesAndObjectChallenge.deps.json
+D:\C# Projects\classesAndObjectChallenge\bin\Debug\net7.0\classesAndObjectChallenge.runtimeconfig.json
+D:\C# Projects\classesAndObjectChallenge\bin\Debug\net7.0\classesAndObjectChallenge.dll
+D:\C# Projects\classesAndObjectChallenge\bin\Debug\net7.0\classesAndObjectChallenge.pdb
+D:\C# Projects\classesAndObjectChallenge\obj\Debug\net7.0\classesAndObjectChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\classesAndObjectChallenge\obj\Debug\net7.0\classesAndObjectChallenge.AssemblyInfoInputs.cache
+D:\C# Projects\classesAndObjectChallenge\obj\Debug\net7.0\classesAndObjectChallenge.AssemblyInfo.cs
+D:\C# Projects\classesAndObjectChallenge\obj\Debug\net7.0\classesAndObjectChallenge.csproj.CoreCompileInputs.cache
+D:\C# Projects\classesAndObjectChallenge\obj\Debug\net7.0\classesAndObjectChallenge.dll
+D:\C# Projects\classesAndObjectChallenge\obj\Debug\net7.0\refint\classesAndObjectChallenge.dll
+D:\C# Projects\classesAndObjectChallenge\obj\Debug\net7.0\classesAndObjectChallenge.pdb
+D:\C# Projects\classesAndObjectChallenge\obj\Debug\net7.0\classesAndObjectChallenge.genruntimeconfig.cache
+D:\C# Projects\classesAndObjectChallenge\obj\Debug\net7.0\ref\classesAndObjectChallenge.dll
